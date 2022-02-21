@@ -1,7 +1,7 @@
 # Deepfake Audio Detection with One Class VAEs 
 
 ## Reproduction
-The dataset can be downloaded from [here](https://www.asvspoof.org/index2019.html)
+The ASVSpoof 2019 dataset can be downloaded from [here](https://www.asvspoof.org/index2019.html)
 To run the ipynb, change the data paths and run the cells sequentially.
 
 ## Presentation
